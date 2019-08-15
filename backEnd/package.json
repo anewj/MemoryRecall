@@ -1,0 +1,18 @@
+{
+  "name": "memoryrecall",
+  "version": "1.0.0",
+  "description": "restapi",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "anewj maharjan",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+//    "mongoose": "^5.2.14",
+    "node-cmd": "^3.0.0",
+    "python-shell": "^1.0.4"
+  }
+}
